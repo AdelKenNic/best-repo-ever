@@ -2,4 +2,4 @@
 
 Add some text here for best-repo-ever
 
-Add some more text here for conflicting commits
+ADd some text here to show conflicts 2
